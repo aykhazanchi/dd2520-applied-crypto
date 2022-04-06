@@ -1,4 +1,4 @@
-# Tiny AES ECB
+# Tiny AES
 
 A tiny AES implementation in Python done as part of the DD2520 Applied Cryptography course at KTH Royal Institute of Technology. This implements AES in Electronic Code Block (ECB) mode and was done to understand how AES works on a lower level.
 
